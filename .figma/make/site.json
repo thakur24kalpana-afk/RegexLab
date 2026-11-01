@@ -1,0 +1,10 @@
+{
+  "description": "Explore regular expressions through generated NFA and DFA diagrams, step-by-step conversion, and string testing—an interactive learning tool for computer science students.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
